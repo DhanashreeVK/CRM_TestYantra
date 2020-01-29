@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26525" started-at="2020-01-29T03:35:17Z" finished-at="2020-01-29T03:35:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26525" started-at="2020-01-29T03:35:17Z" finished-at="2020-01-29T03:35:43Z">
+      <class name="com.crm.autodesk.CampaignTest.CreateCampWithNameTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:com.crm.autodesk.CampaignTest.CreateCampWithNameTest@2b98378d]" name="Browser" is-config="true" duration-ms="3330" started-at="2020-01-29T09:05:17Z" finished-at="2020-01-29T09:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="loginVtiger()[pri:0, instance:com.crm.autodesk.CampaignTest.CreateCampWithNameTest@2b98378d]" name="loginVtiger" is-config="true" duration-ms="4548" started-at="2020-01-29T09:05:20Z" finished-at="2020-01-29T09:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVtiger -->
+        <test-method status="PASS" signature="campaign()[pri:0, instance:com.crm.autodesk.CampaignTest.CreateCampWithNameTest@2b98378d]" name="campaign" duration-ms="16780" started-at="2020-01-29T09:05:25Z" finished-at="2020-01-29T09:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaign -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:com.crm.autodesk.CampaignTest.CreateCampWithNameTest@2b98378d]" name="logoutApp" is-config="true" duration-ms="1622" started-at="2020-01-29T09:05:41Z" finished-at="2020-01-29T09:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.autodesk.CampaignTest.CreateCampWithNameTest@2b98378d]" name="closeBrowser" is-config="true" duration-ms="209" started-at="2020-01-29T09:05:43Z" finished-at="2020-01-29T09:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.crm.autodesk.CampaignTest.CreateCampWithNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
